@@ -1,0 +1,6 @@
+matplotlib==3.4.3
+apriori_python==1.0.4
+pandas==1.3.3
+efficient_apriori==1.1.1
+fpgrowth_py==1.0.0
+PyARMViz==0.1.4
